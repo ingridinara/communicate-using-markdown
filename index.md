@@ -6,3 +6,8 @@
 ###### H6 Header 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git --version
+Use this command to check which git version are you using on your pc
+```
