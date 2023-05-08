@@ -11,3 +11,7 @@
 $ git --version
 Use this command to check which git version are you using on your pc
 ```
+
+- [ ] Item #1 from the task list 
+- [ ] Item #2 from the task list 
+- [ ] Item #3 from the task list 
